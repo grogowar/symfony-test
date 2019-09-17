@@ -12,7 +12,6 @@
         "symfony/yaml": "4.3.*"
     },
     "require-dev": {
-        "easycorp/easy-deploy-bundle": "^1.0"
     },
     "config": {
         "preferred-install": {
